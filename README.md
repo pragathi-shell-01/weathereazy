@@ -2,7 +2,7 @@
 Weatherezy is a modern and responsive weather application that allows users to check real-time weather conditions and forecasts for any city, state, or location using an interactive map-based search.
 
 🔗 Live Demo: https://weatherezyo.netlify.app/
-📁 Source Code: https://github.com/chanduoneight/weatherezy
+📁 Source Code: https://github.com/pragathi-shell-01/weathereazy
 
 🚀 Features
 
@@ -38,7 +38,7 @@ Clone the repository
 
 bash
 
-git clone https://github.com/chanduoneight/weatherezy.git
+git clone [https://github.com/chanduoneight/weatherezy.git](https://github.com/pragathi-shell-01/weathereazy)
 Navigate to the project folder
 
 bash
@@ -96,5 +96,5 @@ This project is licensed under the MIT License.
 
 👨‍💻 Author
 Chandu
-GitHub: https://github.com/chanduoneight
+GitHub: https://github.com/pragathi-shell-01
 
