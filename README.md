@@ -1,8 +1,11 @@
- Weatherezy – Modern Weather Application Weatherezy is a modern and responsive weather application that allows users to check real-time weather conditions and forecasts for any city, state, or location using an interactive map-based search.
+🌦️ Weatherezy – Modern Weather Application
+Weatherezy is a modern and responsive weather application that allows users to check real-time weather conditions and forecasts for any city, state, or location using an interactive map-based search.
 
-🔗 Live Demo: https://weatherezyo.netlify.app/ 📁 Source Code: *****
+🔗 Live Demo: https://weatherezyo.netlify.app/
+📁 Source Code: https://github.com/chanduoneight/weatherezy
 
 🚀 Features
+
 
 ✅ Real-time weather updates using OpenWeather API
 
@@ -18,35 +21,44 @@
 
 ✅ Responsive and user-friendly UI for all devices
 
-🛠️ Tech Stack Frontend: React.js, JavaScript, HTML, CSS
+🛠️ Tech Stack
+Frontend: React.js, JavaScript, HTML, CSS
 
 APIs: OpenWeatherMap API
 
 Maps: Leaflet.js / Google Maps API
 
-📸 Screenshots (Optional) Add screenshots or GIFs here to showcase the UI and features.
+📸 Screenshots (Optional)
+Add screenshots or GIFs here to showcase the UI and features.
 
-📦 Installation Follow these steps to run the project locally:
+📦 Installation
+Follow these steps to run the project locally:
 
 Clone the repository
 
 bash
 
-git clone ***** Navigate to the project folder
+git clone https://github.com/chanduoneight/weatherezy.git
+Navigate to the project folder
 
 bash
 
-cd weather-app Open the application
+cd weather-app
+Open the application
 
-Open index.html directly in your browser OR
+Open index.html directly in your browser
+OR
 
 Run a local server (recommended)
 
-🔑 API Key Setup Get your free API key from OpenWeatherMap 👉 https://openweathermap.org/api
+🔑 API Key Setup
+Get your free API key from OpenWeatherMap
+👉 https://openweathermap.org/api
 
 Add the API key to:
 
-config.js or
+config.js
+or
 
 The appropriate configuration file in the project
 
@@ -54,7 +66,9 @@ js
 
 const API_KEY = "YOUR_API_KEY_HERE";
 
-📖 Usage Use the search bar to enter a city or state
+
+📖 Usage
+Use the search bar to enter a city or state
 
 Or click on the map to select a location
 
@@ -66,7 +80,8 @@ Current weather conditions
 
 Temperature, humidity, wind speed, and weather status
 
-🤝 Contributing Contributions are welcome! 🎉
+🤝 Contributing
+Contributions are welcome! 🎉
 
 Fork the repository
 
@@ -76,6 +91,10 @@ Make your changes
 
 Submit a pull request
 
-📜 License This project is licensed under the MIT License.
+📜 License
+This project is licensed under the MIT License.
 
-👨‍💻 Author Chandu GitHub: *********
+👨‍💻 Author
+Chandu
+GitHub: https://github.com/chanduoneight
+
